@@ -2,6 +2,7 @@
 
 
 # post-install.sh est un fichier executable ecrit en langage bash qui permet d'automatiser l'installation des logiciels sur un shell unix.
+# post-install.py est l'équivalent du fichier .sh en script python
 
 # apt-get est un logiciel utilisé en ligne de commande qui permet l'installation et désintallation des paquets 
 
